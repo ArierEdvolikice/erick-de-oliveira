@@ -156,7 +156,7 @@ function App() {
           </div>
           <div data-aos="fade-left" className="home-image">
             <img
-              src="/Imagens/Foto_Sec_2.png"
+              src="public/Imagens/Foto_Sec_2.png"
               alt="Erick de Oliveira"
               className="profile-photo"
             />
