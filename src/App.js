@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
-import { Pagination, Navigation } from "swiper/modules";
+import { Pagination, Navigation} from "swiper/modules";
 import AOS from "aos"; // Importando AOS
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
