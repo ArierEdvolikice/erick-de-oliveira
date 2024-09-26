@@ -568,7 +568,7 @@ function App() {
           <SwiperSlide>
             <div className="slide-content">
               <img
-                src="./Imagens/DR_Saude.jpg"
+                src="./Imagens/Dr_Saude.jpg"
                 alt="Projeto 7"
                 className="slide-image"
               />
