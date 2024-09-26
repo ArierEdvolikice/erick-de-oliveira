@@ -657,15 +657,6 @@ function App() {
           <div className="row">
             <ul>
               <li>
-                <a
-                  href="https://wa.me/5585994283128?text=Diga-me%20o%20que%20precisa%20e%20retorno%20assim%20que%20poss%C3%ADvel!%20Obrigado."
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Contate-me
-                </a>
-              </li>
-              <li>
                 <a href="#home">Home</a>
               </li>
               <li>
