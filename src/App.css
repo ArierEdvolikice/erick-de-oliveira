@@ -697,12 +697,12 @@ font-weight: bold;
 
 /* setting dot to the left if the card is odd */
 .card:nth-child(odd) > .info > .title::before {
-  left: -55px;
+  left: -80px;
 }
 
 /* setting dot to the right if the card is odd */
 .card:nth-child(even) > .info > .title::before {
-  right: -55px;
+  right: -80px;
 }
 
 @media (max-width: 720px) {
@@ -869,6 +869,15 @@ nav ul li {
     align-content: center;
     font-size: 3vw;
 
+}
+
+.card:nth-child(odd) > .info > .title::before {
+  left: -55px;
+}
+
+/* setting dot to the right if the card is odd */
+.card:nth-child(even) > .info > .title::before {
+  right: -55px;
 }
 
 }
