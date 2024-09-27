@@ -154,7 +154,7 @@ function App() {
               <button>Contate-me</button>
             </a>
           </div>
-          <div data-aos="fade-left" className="home-image">
+          <div data-aos="fade-in" className="home-image">
             <img
               src="/landing-page/Imagens/Foto_Sec_2.png"
               alt="Erick de Oliveira"
