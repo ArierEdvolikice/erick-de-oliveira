@@ -156,7 +156,7 @@ function App() {
           </div>
           <div data-aos="fade-left" className="home-image">
             <img
-              src="landing-page/Imagens/Foto_Sec_2.png"
+              src="/landing-page/Imagens/Foto_Sec_2.png"
               alt="Erick de Oliveira"
               className="profile-photo"
             />
@@ -192,7 +192,7 @@ function App() {
           <div className="skill-card">
             <div className="skill-icon">
               <img
-                src="./Imagens/Javascript.png"
+                src="/landing-page/Imagens/Javascript.png"
                 alt="Javascript Icon"
                 className="Icons-Habilidades"
               ></img>
@@ -202,7 +202,7 @@ function App() {
           <div className="skill-card">
             <div className="skill-icon">
               <img
-                src="./Imagens/Html.png"
+                src="/landing-page/Imagens/Html.png"
                 alt="Html Icon"
                 className="Icons-Habilidades"
               ></img>
@@ -212,7 +212,7 @@ function App() {
           <div className="skill-card">
             <div className="skill-icon">
               <img
-                src="./Imagens/Css.png"
+                src="/landing-page/Imagens/Css.png"
                 alt="Css Icon"
                 className="Icons-Habilidades"
               ></img>
@@ -222,7 +222,7 @@ function App() {
           <div className="skill-card">
             <div className="skill-icon">
               <img
-                src="./Imagens/C.png"
+                src="/landing-page/Imagens/C.png"
                 alt="C Icon"
                 className="Icons-Habilidades"
               ></img>
@@ -232,7 +232,7 @@ function App() {
           <div className="skill-card">
             <div className="skill-icon">
               <img
-                src="./Imagens/C_Hashtag.png"
+                src="/landing-page/Imagens/C_Hashtag.png"
                 alt="C_Hashtag Icon"
                 className="Icons-Habilidades"
               ></img>
@@ -242,7 +242,7 @@ function App() {
           <div className="skill-card">
             <div className="skill-icon">
               <img
-                src="./Imagens/Flutter.png"
+                src="/landing-page/Imagens/Flutter.png"
                 alt="Flutter Icon"
                 className="Icons-Habilidades"
               ></img>
@@ -252,7 +252,7 @@ function App() {
           <div className="skill-card">
             <div className="skill-icon">
               <img
-                src="./Imagens/Git.png"
+                src="/landing-page/Imagens/Git.png"
                 alt="Git Icon"
                 className="Icons-Habilidades"
               ></img>
@@ -262,7 +262,7 @@ function App() {
           <div className="skill-card">
             <div className="skill-icon">
               <img
-                src="./Imagens/mysql.png"
+                src="/landing-page/Imagens/mysql.png"
                 alt="mysql Icon"
                 className="Icons-Habilidades"
               ></img>
@@ -272,7 +272,7 @@ function App() {
           <div className="skill-card">
             <div className="skill-icon">
               <img
-                src="./Imagens/PHP.png"
+                src="/landing-page/Imagens/PHP.png"
                 alt="PHP Icon"
                 className="Icons-Habilidades"
               ></img>
@@ -282,7 +282,7 @@ function App() {
           <div className="skill-card">
             <div className="skill-icon">
               <img
-                src="./Imagens/Python.png"
+                src="/landing-page/Imagens/Python.png"
                 alt="Python Icon"
                 className="Icons-Habilidades"
               ></img>
@@ -292,7 +292,7 @@ function App() {
           <div className="skill-card">
             <div className="skill-icon">
               <img
-                src="./Imagens/React.png"
+                src="/landing-page/Imagens/React.png"
                 alt="React Icon"
                 className="Icons-Habilidades"
               ></img>
@@ -302,7 +302,7 @@ function App() {
           <div className="skill-card">
             <div className="skill-icon">
               <img
-                src="./Imagens/Vue.png"
+                src="/landing-page/Imagens/Vue.png"
                 alt="Vue Icon"
                 className="Icons-Habilidades"
               ></img>
@@ -312,7 +312,7 @@ function App() {
           <div className="skill-card">
             <div className="skill-icon">
               <img
-                src="./Imagens/Wordpress.png"
+                src="/landing-page/Imagens/Wordpress.png"
                 alt="Wordpress Icon"
                 className="Icons-Habilidades"
               ></img>
@@ -322,7 +322,7 @@ function App() {
           <div className="skill-card">
             <div className="skill-icon">
               <img
-                src="./Imagens/PS.png"
+                src="/landing-page/Imagens/PS.png"
                 alt="PhotoShop Icon"
                 className="Icons-Habilidades"
               ></img>
@@ -332,7 +332,7 @@ function App() {
           <div className="skill-card">
             <div className="skill-icon">
               <img
-                src="./Imagens/Ilustrator.png"
+                src="/landing-page/Imagens/Ilustrator.png"
                 alt="Ilustrator Icon"
                 className="Icons-Habilidades"
               ></img>
@@ -342,7 +342,7 @@ function App() {
           <div className="skill-card">
             <div className="skill-icon">
               <img
-                src="./Imagens/premiere.png"
+                src="/landing-page/Imagens/premiere.png"
                 alt="Premiere Icon"
                 className="Icons-Habilidades"
               ></img>
@@ -466,7 +466,7 @@ function App() {
           <SwiperSlide>
             <div className="slide-content">
               <img
-                src="./Imagens/Ferrovia.jpg"
+                src="/landing-page/Imagens/Ferrovia.jpg"
                 alt="Projeto 1"
                 className="slide-image"
               />
@@ -484,7 +484,7 @@ function App() {
           <SwiperSlide>
             <div className="slide-content">
               <img
-                src="./Imagens/Farkas.jpg"
+                src="/landing-page/Imagens/Farkas.jpg"
                 alt="Projeto 2"
                 className="slide-image"
               />
@@ -502,7 +502,7 @@ function App() {
           <SwiperSlide>
             <div className="slide-content">
               <img
-                src="./Imagens/Metashop.jpg"
+                src="/landing-page/Imagens/Metashop.jpg"
                 alt="Projeto 3"
                 className="slide-image"
               />
@@ -519,7 +519,7 @@ function App() {
           <SwiperSlide>
             <div className="slide-content">
               <img
-                src="./Imagens/Projeto_Cadastro_UFC.jpg"
+                src="/landing-page/Imagens/Projeto_Cadastro_UFC.jpg"
                 alt="Projeto 4"
                 className="slide-image"
               />
@@ -535,7 +535,7 @@ function App() {
           <SwiperSlide>
             <div className="slide-content">
               <img
-                src="./Imagens/Mavic.jpg"
+                src="/landing-page/Imagens/Mavic.jpg"
                 alt="Projeto 5"
                 className="slide-image"
               />
@@ -551,7 +551,7 @@ function App() {
           <SwiperSlide>
             <div className="slide-content">
               <img
-                src="./Imagens/WaveUs.jpg"
+                src="/landing-page/Imagens/WaveUs.jpg"
                 alt="Projeto 6"
                 className="slide-image"
               />
@@ -568,7 +568,7 @@ function App() {
           <SwiperSlide>
             <div className="slide-content">
               <img
-                src="./Imagens/Dr_Saude.jpg"
+                src="/landing-page/Imagens/Dr_Saude.jpg"
                 alt="Projeto 7"
                 className="slide-image"
               />
