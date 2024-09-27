@@ -51,14 +51,14 @@ p {
 .App-header {
   background-color: #1b1b1b;
   position: fixed;
-  width: 65vw; /* Define a largura em 50% */
+  width: 65vw;
   z-index: 1000;
-  height: 50px;
   align-content: center;
   left: 0;
   right: 0;
   margin: 0 auto;
-  border-radius: 0px 0 50px 50px; /* Define o arredondamento em dois cantos para criar um efeito mais curvado */
+  border-radius: 0px 0 50px 50px;
+  padding: 5px;
 }
 
 nav ul {
