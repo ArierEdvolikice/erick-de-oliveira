@@ -450,18 +450,35 @@ function App() {
       <section id="projetos" className="Projetos">
         <h1 data-aos="zoom-in">Últimos Projetos</h1>
         <Swiper
-          data-aos="zoom-in"
-          data-aos-delay="300"
-          slidesPerView={3}
-          spaceBetween={30}
-          loop={true}
-          pagination={{
-            clickable: true,
-          }}
-          navigation={true} // Adicione esta linha para habilitar as setas
-          modules={[Pagination, Navigation]} // Inclua o módulo de navegação
-          className="Meu-Swiper"
-        >
+    data-aos="zoom-in"
+    data-aos-delay="300"
+    slidesPerView={3} // Padrão: 3 slides visíveis
+    spaceBetween={30}
+    loop={true}
+    pagination={{
+      clickable: true,
+    }}
+    navigation={true} // Setas de navegação habilitadas
+    modules={[Pagination, Navigation]}
+    className="Meu-Swiper"
+    breakpoints={{
+      // Quando a largura da janela é >= 1024px
+      1024: {
+        slidesPerView: 3, // 3 slides visíveis
+        spaceBetween: 30,
+      },
+      // Quando a largura da janela é >= 768px
+      768: {
+        slidesPerView: 2, // 2 slides visíveis
+        spaceBetween: 20,
+      },
+      // Quando a largura da janela é < 768px
+      0: {
+        slidesPerView: 1, // Apenas 1 slide visível
+        spaceBetween: 10,
+      },
+    }}
+  >
           {/* Slide 1 */}
           <SwiperSlide>
             <div className="slide-content">
@@ -615,7 +632,7 @@ function App() {
         <h4 data-aos="fade-in">Vamos Conversar!</h4>
         <p data-aos="fade-in" data-aos-delay="300">
           Agende uma <span>sessão gratuita de 15 minutos</span> onde
-          discutiremos<br></br> seu projeto, suas questões e como resolvê-las.
+          discutiremos seu projeto, suas questões e como resolvê-las.
         </p>
         <a
           href="https://wa.me/5585994283128?text=Diga-me%20o%20que%20precisa%20e%20retorno%20assim%20que%20poss%C3%ADvel!%20Obrigado."

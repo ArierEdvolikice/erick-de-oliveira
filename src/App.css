@@ -547,8 +547,9 @@ font-weight: bold;
 }
 
 .contrate-me p {
-  margin: 0;
-  margin-bottom: 20px;
+
+    margin: 0% 25% 2% 25%;
+
 }
 
 .contrate-me button {
@@ -612,37 +613,6 @@ font-weight: bold;
 }
 
 
-
-
-
-/* Responsividade */
-@media (max-width: 768px) {
-  .section-home {
-    flex-direction: column;
-    height: auto;
-  }
-
-  .home-text, .home-image {
-    width: 100%;
-  }
-
-  .home-text {
-    text-align: center;
-    padding: 20px;
-  }
-
-  .home-text h1 {
-    font-size: 8vw; /* Ajusta para telas menores */
-  }
-
-  .home-text h2 {
-    font-size: 5vw;
-  }
-
-  .profile-photo {
-    height: 40vh; /* Altura fixa para a imagem em telas menores */
-  }
-}
 
 
 
@@ -727,12 +697,12 @@ font-weight: bold;
 
 /* setting dot to the left if the card is odd */
 .card:nth-child(odd) > .info > .title::before {
-  left: -80px;
+  left: -55px;
 }
 
 /* setting dot to the right if the card is odd */
 .card:nth-child(even) > .info > .title::before {
-  right: -80px;
+  right: -55px;
 }
 
 @media (max-width: 720px) {
@@ -748,4 +718,136 @@ font-weight: bold;
   .footer .row a i {
     margin: 0 3%; /* Aumenta a margem dos ícones */
   }
+}
+
+@media (max-width: 768px) {
+  .home-container {
+    display: block;
+    margin-top: -10vh;
+  }
+  .home-text {
+    z-index: 2;
+    position: relative;
+}
+
+.profile-photo {
+  height: 100%;
+  opacity: 0.5;
+}
+
+button {
+  font-size: 3.6vw;
+  padding: 1.5vh 5vw;
+  border-radius: 10.5vw;
+
+}
+
+.home-image {
+  height: 95vh;
+  position: absolute;
+  z-index: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.about-me {
+  margin-bottom: 5vh;
+}
+
+.home-text h1 {
+  font-size: 12vw;
+}
+p {
+  font-size: 3.6vw;
+  margin-bottom: 2vh;
+  margin-top: 2vh;
+}
+
+.section-home {
+
+  padding: 0vh 4vh 0vw 4vh;
+
+}
+
+.section-about-skills {
+  padding: 10vh 4vh;
+}
+
+.Timeline {
+
+  padding: 10vh 4vh;
+
+}
+
+.skills-grid {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.Icons-Habilidades {
+  height: 15vh;
+}
+
+.skill-card {
+
+  min-height: auto;
+
+}
+
+.skill-card h3 {
+  font-size: 3.6vw;
+}
+
+.info {
+  padding: 20px;
+}
+
+.Projetos {
+
+  padding: 10vh 4vh;
+
+}
+
+.Meu-Swiper {
+  margin-top: 5vh;
+}
+
+.slide-text p {
+  font-size: 3.6vw;
+}
+
+.faq__wrapper {
+  padding: 10vh 4vh;
+
+}
+
+.faq-answer {
+  font-size: 3.6vw;
+
+}
+
+.faq-item {
+
+  padding: 20px;
+
+}
+
+.contrate-me {
+
+  height: 70vh;
+
+}
+
+.contrate-me button {
+  font-size: 3.6vw;
+  padding: 1.5vh 5vw;
+  border-radius: 10.5vw;
+
+}
+
+.contrate-me p {
+
+  margin: 0% 5% 2% 5%;
+
+}
+
 }
