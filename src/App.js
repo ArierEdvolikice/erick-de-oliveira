@@ -23,6 +23,7 @@ function App() {
       once: true, // Anima apenas na primeira vez que o elemento entra na viewport
     });
   }, []);
+    
 
   const toggleAnswer = (index) => {
     setActiveIndex(activeIndex === index ? null : index);
@@ -156,7 +157,7 @@ function App() {
           </div>
           <div data-aos="fade-in" className="home-image">
             <img
-              src="/landing-page/Imagens/Foto_Sec_2.png"
+              src="/landing-page/Imagens/Foto_Sec_2.webp"
               alt="Erick de Oliveira"
               className="profile-photo"
             />
