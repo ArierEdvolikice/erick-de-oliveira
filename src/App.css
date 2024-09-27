@@ -58,12 +58,12 @@ p {
   right: 0;
   margin: 0 auto;
   border-radius: 0px 0 50px 50px;
-  padding: 5px;
+  padding: 15px;
 }
 
 nav ul {
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
   list-style: none;
 }
 
@@ -858,6 +858,7 @@ p {
 .App-header {
 
   width: 100vw;
+  padding: 10px;
 
 }
 
