@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/landing-page/static/css/main.b58c5625.css",
+    "main.css": "/landing-page/static/css/main.890147cf.css",
     "main.js": "/landing-page/static/js/main.158907ba.js",
     "static/js/453.7ee4257d.chunk.js": "/landing-page/static/js/453.7ee4257d.chunk.js",
     "static/media/Fundo_Contate_Me.jpg": "/landing-page/static/media/Fundo_Contate_Me.78408a913c4a599bf6de.jpg",
     "static/media/Fundo_Home.jpg": "/landing-page/static/media/Fundo_Home.e59b32bded24c8a8b2a8.jpg",
     "static/media/Fundo_Projetos.jpg": "/landing-page/static/media/Fundo_Projetos.b83e42a16a2e7a332b07.jpg",
     "index.html": "/landing-page/index.html",
-    "main.b58c5625.css.map": "/landing-page/static/css/main.b58c5625.css.map",
+    "main.890147cf.css.map": "/landing-page/static/css/main.890147cf.css.map",
     "main.158907ba.js.map": "/landing-page/static/js/main.158907ba.js.map",
     "453.7ee4257d.chunk.js.map": "/landing-page/static/js/453.7ee4257d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b58c5625.css",
+    "static/css/main.890147cf.css",
     "static/js/main.158907ba.js"
   ]
 }
