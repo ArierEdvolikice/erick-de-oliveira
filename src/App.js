@@ -157,7 +157,7 @@ function App() {
           </div>
           <div data-aos="fade-in" className="home-image">
             <img
-              src="/landing-page/Imagens/Foto_Sec_2.webp"
+              src="/erick-de-oliveira/Imagens/Foto_Sec_2.webp"
               alt="Erick de Oliveira"
               className="profile-photo"
             />
@@ -193,7 +193,7 @@ function App() {
           <div className="skill-card">
             <div className="skill-icon">
               <img
-                src="/landing-page/Imagens/Javascript.png"
+                src="/erick-de-oliveira/Imagens/Javascript.png"
                 alt="Javascript Icon"
                 className="Icons-Habilidades"
               ></img>
@@ -203,7 +203,7 @@ function App() {
           <div className="skill-card">
             <div className="skill-icon">
               <img
-                src="/landing-page/Imagens/Html.png"
+                src="/erick-de-oliveira/Imagens/Html.png"
                 alt="Html Icon"
                 className="Icons-Habilidades"
               ></img>
@@ -213,7 +213,7 @@ function App() {
           <div className="skill-card">
             <div className="skill-icon">
               <img
-                src="/landing-page/Imagens/Css.png"
+                src="/erick-de-oliveira/Imagens/Css.png"
                 alt="Css Icon"
                 className="Icons-Habilidades"
               ></img>
@@ -223,7 +223,7 @@ function App() {
           <div className="skill-card">
             <div className="skill-icon">
               <img
-                src="/landing-page/Imagens/C.png"
+                src="/erick-de-oliveira/Imagens/C.png"
                 alt="C Icon"
                 className="Icons-Habilidades"
               ></img>
@@ -233,7 +233,7 @@ function App() {
           <div className="skill-card">
             <div className="skill-icon">
               <img
-                src="/landing-page/Imagens/C_Hashtag.png"
+                src="/erick-de-oliveira/Imagens/C_Hashtag.png"
                 alt="C_Hashtag Icon"
                 className="Icons-Habilidades"
               ></img>
@@ -243,7 +243,7 @@ function App() {
           <div className="skill-card">
             <div className="skill-icon">
               <img
-                src="/landing-page/Imagens/Flutter.png"
+                src="/erick-de-oliveira/Imagens/Flutter.png"
                 alt="Flutter Icon"
                 className="Icons-Habilidades"
               ></img>
@@ -253,7 +253,7 @@ function App() {
           <div className="skill-card">
             <div className="skill-icon">
               <img
-                src="/landing-page/Imagens/Git.png"
+                src="/erick-de-oliveira/Imagens/Git.png"
                 alt="Git Icon"
                 className="Icons-Habilidades"
               ></img>
@@ -263,7 +263,7 @@ function App() {
           <div className="skill-card">
             <div className="skill-icon">
               <img
-                src="/landing-page/Imagens/mysql.png"
+                src="/erick-de-oliveira/Imagens/mysql.png"
                 alt="mysql Icon"
                 className="Icons-Habilidades"
               ></img>
@@ -273,7 +273,7 @@ function App() {
           <div className="skill-card">
             <div className="skill-icon">
               <img
-                src="/landing-page/Imagens/PHP.png"
+                src="/erick-de-oliveira/Imagens/PHP.png"
                 alt="PHP Icon"
                 className="Icons-Habilidades"
               ></img>
@@ -283,7 +283,7 @@ function App() {
           <div className="skill-card">
             <div className="skill-icon">
               <img
-                src="/landing-page/Imagens/Python.png"
+                src="/erick-de-oliveira/Imagens/Python.png"
                 alt="Python Icon"
                 className="Icons-Habilidades"
               ></img>
@@ -293,7 +293,7 @@ function App() {
           <div className="skill-card">
             <div className="skill-icon">
               <img
-                src="/landing-page/Imagens/React.png"
+                src="/erick-de-oliveira/Imagens/React.png"
                 alt="React Icon"
                 className="Icons-Habilidades"
               ></img>
@@ -303,7 +303,7 @@ function App() {
           <div className="skill-card">
             <div className="skill-icon">
               <img
-                src="/landing-page/Imagens/Vue.png"
+                src="/erick-de-oliveira/Imagens/Vue.png"
                 alt="Vue Icon"
                 className="Icons-Habilidades"
               ></img>
@@ -313,7 +313,7 @@ function App() {
           <div className="skill-card">
             <div className="skill-icon">
               <img
-                src="/landing-page/Imagens/Wordpress.png"
+                src="/erick-de-oliveira/Imagens/Wordpress.png"
                 alt="Wordpress Icon"
                 className="Icons-Habilidades"
               ></img>
@@ -323,7 +323,7 @@ function App() {
           <div className="skill-card">
             <div className="skill-icon">
               <img
-                src="/landing-page/Imagens/PS.png"
+                src="/erick-de-oliveira/Imagens/PS.png"
                 alt="PhotoShop Icon"
                 className="Icons-Habilidades"
               ></img>
@@ -333,7 +333,7 @@ function App() {
           <div className="skill-card">
             <div className="skill-icon">
               <img
-                src="/landing-page/Imagens/Ilustrator.png"
+                src="/erick-de-oliveira/Imagens/Ilustrator.png"
                 alt="Ilustrator Icon"
                 className="Icons-Habilidades"
               ></img>
@@ -343,7 +343,7 @@ function App() {
           <div className="skill-card">
             <div className="skill-icon">
               <img
-                src="/landing-page/Imagens/premiere.png"
+                src="/erick-de-oliveira/Imagens/premiere.png"
                 alt="Premiere Icon"
                 className="Icons-Habilidades"
               ></img>
@@ -484,7 +484,7 @@ function App() {
           <SwiperSlide>
             <div className="slide-content">
               <img
-                src="/landing-page/Imagens/Ferrovia.jpg"
+                src="/erick-de-oliveira/Imagens/Ferrovia.jpg"
                 alt="Projeto 1"
                 className="slide-image"
               />
@@ -502,7 +502,7 @@ function App() {
           <SwiperSlide>
             <div className="slide-content">
               <img
-                src="/landing-page/Imagens/Farkas.jpg"
+                src="/erick-de-oliveira/Imagens/Farkas.jpg"
                 alt="Projeto 2"
                 className="slide-image"
               />
@@ -520,7 +520,7 @@ function App() {
           <SwiperSlide>
             <div className="slide-content">
               <img
-                src="/landing-page/Imagens/Metashop.jpg"
+                src="/erick-de-oliveira/Imagens/Metashop.jpg"
                 alt="Projeto 3"
                 className="slide-image"
               />
@@ -537,7 +537,7 @@ function App() {
           <SwiperSlide>
             <div className="slide-content">
               <img
-                src="/landing-page/Imagens/Projeto_Cadastro_UFC.jpg"
+                src="/erick-de-oliveira/Imagens/Projeto_Cadastro_UFC.jpg"
                 alt="Projeto 4"
                 className="slide-image"
               />
@@ -553,7 +553,7 @@ function App() {
           <SwiperSlide>
             <div className="slide-content">
               <img
-                src="/landing-page/Imagens/Mavic.jpg"
+                src="/erick-de-oliveira/Imagens/Mavic.jpg"
                 alt="Projeto 5"
                 className="slide-image"
               />
@@ -569,7 +569,7 @@ function App() {
           <SwiperSlide>
             <div className="slide-content">
               <img
-                src="/landing-page/Imagens/WaveUs.jpg"
+                src="/erick-de-oliveira/Imagens/WaveUs.jpg"
                 alt="Projeto 6"
                 className="slide-image"
               />
@@ -586,7 +586,7 @@ function App() {
           <SwiperSlide>
             <div className="slide-content">
               <img
-                src="/landing-page/Imagens/Dr_Saude.jpg"
+                src="/erick-de-oliveira/Imagens/Dr_Saude.jpg"
                 alt="Projeto 7"
                 className="slide-image"
               />
