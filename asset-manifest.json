@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/erick-de-oliveira/static/css/main.06a9f777.css",
-    "main.js": "/erick-de-oliveira/static/js/main.015e93ec.js",
+    "main.js": "/erick-de-oliveira/static/js/main.26335ce5.js",
     "static/js/453.7ee4257d.chunk.js": "/erick-de-oliveira/static/js/453.7ee4257d.chunk.js",
     "static/media/Fundo_Contate_Me.jpg": "/erick-de-oliveira/static/media/Fundo_Contate_Me.78408a913c4a599bf6de.jpg",
     "static/media/Fundo_Home.jpg": "/erick-de-oliveira/static/media/Fundo_Home.e59b32bded24c8a8b2a8.jpg",
     "static/media/Fundo_Projetos.jpg": "/erick-de-oliveira/static/media/Fundo_Projetos.b83e42a16a2e7a332b07.jpg",
     "index.html": "/erick-de-oliveira/index.html",
     "main.06a9f777.css.map": "/erick-de-oliveira/static/css/main.06a9f777.css.map",
-    "main.015e93ec.js.map": "/erick-de-oliveira/static/js/main.015e93ec.js.map",
+    "main.26335ce5.js.map": "/erick-de-oliveira/static/js/main.26335ce5.js.map",
     "453.7ee4257d.chunk.js.map": "/erick-de-oliveira/static/js/453.7ee4257d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.06a9f777.css",
-    "static/js/main.015e93ec.js"
+    "static/js/main.26335ce5.js"
   ]
 }
